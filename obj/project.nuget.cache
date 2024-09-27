@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "rGU6MjpkTJo5To89Kk3Et76G2920sfecY+l4/kpLRDT1tSpdSnSat9UEIgo69ukuI8NJO6qYIX7tzglV85u2qQ==",
+  "success": true,
+  "projectFilePath": "/home/nam/code/SimpleCalculator/SimpleCalculator.csproj",
+  "expectedPackageFiles": [
+    "/home/nam/.nuget/packages/atksharp/3.24.24.95/atksharp.3.24.24.95.nupkg.sha512",
+    "/home/nam/.nuget/packages/cairosharp/3.24.24.95/cairosharp.3.24.24.95.nupkg.sha512",
+    "/home/nam/.nuget/packages/gdksharp/3.24.24.95/gdksharp.3.24.24.95.nupkg.sha512",
+    "/home/nam/.nuget/packages/giosharp/3.24.24.95/giosharp.3.24.24.95.nupkg.sha512",
+    "/home/nam/.nuget/packages/glibsharp/3.24.24.95/glibsharp.3.24.24.95.nupkg.sha512",
+    "/home/nam/.nuget/packages/gtksharp/3.24.24.95/gtksharp.3.24.24.95.nupkg.sha512",
+    "/home/nam/.nuget/packages/pangosharp/3.24.24.95/pangosharp.3.24.24.95.nupkg.sha512"
+  ],
+  "logs": []
+}
